@@ -21,7 +21,8 @@ export default function Navbar() {
         {data.map(({name}, index) => (
           <div className="text-white h-full select-none cursor-pointer hover:border-b-2 transition-all duration-300">
             <Link 
-              className="h-full flex gap-2 items-center uppercase" 
+              className="h-full flex gap-2 items-center uppercase"
+              activeClass="border-b-2"
               to={name}
               spy={true}
               smooth={true}
