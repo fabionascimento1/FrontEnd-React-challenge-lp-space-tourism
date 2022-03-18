@@ -15,6 +15,7 @@ module.exports = {
         'home-desktop': 'url("./public/img/home/background-home-desktop.jpg")',
         'destination-desktop': 'url("./public/img/destination/background-destination-desktop.jpg")',
         'crew-desktop': 'url("./public/img/crew/background-crew-desktop.jpg")',
+        'technology-desktop': 'url("./public/img/technology/background-technology-desktop.jpg")',
       },
     },
   },
