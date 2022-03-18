@@ -6,4 +6,5 @@
 
 body {
   font-family: "Barlow", sans-serif;
+  overflow: hidden;
 }
