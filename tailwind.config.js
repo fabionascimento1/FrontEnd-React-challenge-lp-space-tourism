@@ -12,7 +12,8 @@ module.exports = {
         sans: ["Barlow", "sans-serif"],
       },
       backgroundImage: {
-        'home-desktop': 'url("./img/home/background-home-desktop.jpg")'
+        'home-desktop': 'url("./img/home/background-home-desktop.jpg")',
+        'destination-desktop': 'url("./img/destination/background-destination-desktop.jpg")',
       },
     },
   },
