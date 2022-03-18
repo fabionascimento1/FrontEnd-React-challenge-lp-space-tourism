@@ -6,7 +6,7 @@ module.exports = {
         sans: ["Barlow", "sans-serif"],
       },
       backgroundImage: {
-        'home-desktop': 'url("./public/img/home/background-home-desktop.jpg")'
+        'home-desktop': 'url("./img/home/background-home-desktop.jpg")'
       },
     },
   },
