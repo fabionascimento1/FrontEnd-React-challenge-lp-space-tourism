@@ -1,4 +1,5 @@
 import { Element } from 'react-scroll'
+import Crew from '../Crew'
 import Destination from '../Destination'
 import Home from '../Home'
 import Topbar from '../Topbar'
@@ -12,6 +13,9 @@ export default function Layout() {
       </Element>
       <Element name='destination'>
         <Destination />
+      </Element>
+      <Element name='crew'>
+        <Crew />
       </Element>
     </>
   )
