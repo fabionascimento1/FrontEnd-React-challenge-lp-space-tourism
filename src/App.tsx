@@ -1,10 +1,8 @@
-import { useState } from 'react'
+import Layout from "./components/Layout"
 
 function App() {
   return (
-    <div className="">
-      <h1 className="text-9xl">Index</h1>
-    </div>
+    <Layout />
   )
 }
 
